@@ -24,19 +24,19 @@ This project is a simple enquiry capturing system that uses the Google Sheets AP
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/enquiry-capturing-system.git
-cd enquiry-capturing-system
+git clone  https://github.com/ABHI-Theq/Enquiry-Capturing-System.git
+cd ECS
 ```
 
 ### Step 2: Install Dependencies
 
 ```bash
 # Install server dependencies
-cd server
+cd Backend
 npm install
 
 # Install client dependencies
-cd ../client
+cd ../Frontend
 npm install
 ```
 
